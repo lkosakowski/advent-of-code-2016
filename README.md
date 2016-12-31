@@ -1,0 +1,3 @@
+## Advent of Code 2016
+
+This is a set of solutions for [Advent of Code 2016](http://adventofcode.com/2016) puzzles. The project relies on several core libraries of Tau - middleware developed by me that is not in public domain yet. The functionality of Tau includes providing platform abstraction, language constructs, basic development components and build system support. Hence this code is suitable for review and reference purposes only.
